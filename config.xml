@@ -1,0 +1,13 @@
+<widget id="com.zaydjunglee.Camera" version="1.0.0">
+        <name>Camera App</name>
+        <description>
+            A simple application to use the camera
+        </description>
+        <author email="zjunglee@glos.ac.uk" href="http://zaydjunglee.com">
+            Zayd Junglee
+        </author>
+        <content src="index.html" />
+        <access origin="*" />
+        <preference name="Fullscreen" value="true" />
+        <preference name="WebViewBounce" value="true" />
+    </widget>
